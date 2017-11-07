@@ -1,0 +1,6 @@
+[submodule "larlite"]
+	path = larlite
+	url = https://github.com/larlight/larlite
+[submodule "LArCV"]
+	path = LArCV
+	url = https://github.com/larbys/larcv
